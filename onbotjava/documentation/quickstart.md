@@ -1,4 +1,3 @@
-### chuget1.github.io
 ## Quick Start Guide for OnBotJava
 ### Most Important Functions:
 `.setPower(x);`: Sets motor power to x% of total power as a decimal  
