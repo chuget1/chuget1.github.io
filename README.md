@@ -1,3 +1,3 @@
 # chuget1.github.io
 ### Quick Links:
-[OnBotJava Documentation](https://chuget1.github.io/onbotjava/documentation.md)
+[OnBotJava Documentation](https://chuget1.github.io/onbotjava/documentation)
