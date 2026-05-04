@@ -1,4 +1,3 @@
-### chuget1.github.io
 # (Unofficial) OnBotJava Documentation
 ## Motor
 ### `.setPower(x)`
